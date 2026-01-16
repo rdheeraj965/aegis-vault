@@ -76,15 +76,15 @@ npm run dev
 
 ### The Dashboard (Cyberpunk Theme)
 
-![Dashboard View](./screenshots/dashboard.png)
+![Dashboard View](./aegis-vault/screenshots/dashboard.png)
 
 ### Ghost Bridge (Real-Time Sync)
 
-![Ghost Bridge](./screenshots/ghost-bridge.png)
+![Ghost Bridge](./aegis-vault/screenshots/ghost-bridge.png)
 
 ### Panic Mode (Stealth View)
 
-![Panic Mode](./screenshots/panic.png)
+![Panic Mode](./aegis-vault/screenshots/panic.png)
 
 ### Disclaimer
 
